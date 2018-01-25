@@ -2,7 +2,7 @@
 
 int main() {
 
-   printf("Hello world!\n");
+   printf("Hello world!\nWow reacts only");
    getchar(); 
    return 1; 
 } 
